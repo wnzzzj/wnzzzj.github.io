@@ -1,0 +1,49 @@
+.teaser {
+	opacity: 0;
+	transition: opacity 1s ease-out 0.2s, transform 0.7s ease-out 0.2s;
+	transform: translate3d(0, 25%, 0);
+}
+.teaser.is-visible {
+	opacity: 1;
+	transform: translate3d(0, 0, 0);
+}
+
+.lefter {
+	opacity: 0;
+	transition: opacity 1s ease-out 0.2s, transform 0.7s ease-out 0.2s;
+	transform: translate3d(-35%, 0, 0);
+}
+.lefter.is-visible {
+	opacity: 1;
+	transform: translate3d(0, 0, 0);
+}
+
+.righter {
+	opacity: 0;
+	transition: opacity 1s ease-out 0.2s, transform 0.7s ease-out 0.2s;
+	transform: translate3d(35%, 0, 0);
+}
+.righter.is-visible {
+	opacity: 1;
+	transform: translate3d(0, 0, 0);
+}
+
+.riser {
+	opacity: 0;
+	transition: opacity 2s ease-out 0.2s, transform 0.7s ease-out 0.2s;
+	transform: translate3d(0, 35%, 0);
+}
+.riser.is-visible {
+	opacity: 1;
+	transform: translate3d(0, 0, 0);
+}
+
+.riser2 {
+	opacity: 0;
+	transition: opacity 2.5s ease-out 0.2s, transform 1s ease-out 0.2s;
+	transform: translate3d(0, 35%, 0);
+}
+.riser2.is-visible {
+	opacity: 1;
+	transform: translate3d(0, 0, 0);
+}

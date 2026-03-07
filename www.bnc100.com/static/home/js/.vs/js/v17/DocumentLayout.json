@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\swiper.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:swiper.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\placeholder.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:placeholder.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\photoswipe-ui-default.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:photoswipe-ui-default.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\js.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:js.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\ifie8.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ifie8.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "swiper.min.js",
+              "DocumentMoniker": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\swiper.min.js",
+              "RelativeDocumentMoniker": "swiper.min.js",
+              "ToolTip": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\swiper.min.js",
+              "RelativeToolTip": "swiper.min.js",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-06T03:14:43.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "placeholder.min.js",
+              "DocumentMoniker": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\placeholder.min.js",
+              "RelativeDocumentMoniker": "placeholder.min.js",
+              "ToolTip": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\placeholder.min.js",
+              "RelativeToolTip": "placeholder.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-06T03:14:41.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "photoswipe-ui-default.min.js",
+              "DocumentMoniker": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\photoswipe-ui-default.min.js",
+              "RelativeDocumentMoniker": "photoswipe-ui-default.min.js",
+              "ToolTip": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\photoswipe-ui-default.min.js",
+              "RelativeToolTip": "photoswipe-ui-default.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-06T03:14:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "js.js",
+              "DocumentMoniker": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\js.js",
+              "RelativeDocumentMoniker": "js.js",
+              "ToolTip": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\js.js",
+              "RelativeToolTip": "js.js",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-06T03:14:23.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jquery.js",
+              "DocumentMoniker": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\jquery.js",
+              "RelativeDocumentMoniker": "jquery.js",
+              "ToolTip": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\jquery.js",
+              "RelativeToolTip": "jquery.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-06T03:14:20.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ifie8.js",
+              "DocumentMoniker": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\ifie8.js",
+              "RelativeDocumentMoniker": "ifie8.js",
+              "ToolTip": "D:\\bnc100\\copy\\www.bnc100.com\\static\\home\\js\\ifie8.js",
+              "RelativeToolTip": "ifie8.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-06T03:14:17.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
