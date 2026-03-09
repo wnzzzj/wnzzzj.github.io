@@ -1744,6 +1744,11 @@ html {
     justify-content: center;
     margin-top: 40px;
   }
+
+  .sh_i .bd img {
+        width: 150px !important;
+        height: 150px !important;
+  }
 }
 
 .foot-2 {
