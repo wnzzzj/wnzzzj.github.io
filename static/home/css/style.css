@@ -1748,6 +1748,7 @@ html {
   .sh_i .bd img {
         width: 150px !important;
         height: 150px !important;
+        object-fit: contain; 
   }
 }
 
