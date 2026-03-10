@@ -1727,9 +1727,10 @@ html {
   opacity: 0;
   z-index: 30;
 }
-.foot-1 .bd img {
-  width: 100%;
-}
+    .foot-1 .bd img {
+        width: 100%;
+        pointer-events: auto !important;
+    }
 @media (max-width: 900px) {
   .foot-1 {
     flex-wrap: wrap;
