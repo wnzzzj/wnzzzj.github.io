@@ -61,7 +61,7 @@
                                                     </li>
                                             </ul>
                     
-                    <div class="more"></div>
+                    <div class="search"><img src="/static/home/images/icon-mag1.png" alt="" class="i1"><img src="/static/home/images/icon-mag2.png" alt="" class="i2"></div>                    <div class="more"></div>
                 </div>
             </div>
         </div>
@@ -96,7 +96,16 @@
             </div>
         </div>
         
-        <div class="mob_mask"></div>
+        <div class="md-search_form">
+            <form class="h_form" action="/search.html">
+                <div class="inp">
+                    <input type="search" placeholder="请输入" name="keywords" class="s16" required oninvalid="setCustomValidity('请输入关键词');" oninput="setCustomValidity('');">
+                    <button type="submit" class="h_sub"></button>
+                </div>
+            </form>
+            <div class="mask"></div>
+        </div>
+                <div class="mob_mask"></div>
     </header>
 
     <main class="md-news">
